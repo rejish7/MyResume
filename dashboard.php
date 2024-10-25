@@ -3,11 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Dashboard - Rejish</title>
+    <title>Portfolio admin Dashboard - Rejish</title>
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-     
-    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
