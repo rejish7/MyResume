@@ -340,3 +340,79 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 22px;
     }
 }
+
+.portfolio {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+}
+
+.portfolio .portfolio-container {
+    margin-top: 30px;
+}
+
+.contact {
+    padding: 60px 0;
+}
+
+.contact .info-box {
+    text-align: center;
+    padding: 30px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.contact .info-box i {
+    font-size: 32px;
+    color: #0563bb;
+    margin-bottom: 15px;
+}
+
+.contact .info-box h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.contact .info-box p {
+    margin-bottom: 0;
+}
+
+.contact .php-email-form {
+    padding: 30px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.contact .php-email-form .form-group {
+    margin-bottom: 20px;
+}
+
+.contact .php-email-form input,
+.contact .php-email-form textarea {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 15px;
+    width: 100%;
+}
+
+.contact .php-email-form button {
+    background: #0563bb;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact .php-email-form button:hover {
+    background: #0678e3;
+}
+
+@media (max-width: 768px) {
+    .contact .info-box {
+        margin-bottom: 20px;
+    }
+}
