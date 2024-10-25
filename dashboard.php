@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Dashboard</title>
+    <title>Portfolio Dashboard - Rejish</title>
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <style>
      
@@ -27,15 +27,15 @@
     </nav>
 
     <main class="container my-5">
-        <h1 class="mb-4 text-center">Welcome, John Doe!</h1>
+        <h1 class="mb-4 text-center">Welcome, Rejish!</h1>
         <h2 class="mb-4 text-center">Your Portfolio Items</h2>
         <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
                 <div class="card h-100 shadow-sm">
-                    <img src="sample-image-1.jpg" class="card-img-top" alt="Project 1">
+                    <img src="assets/img/portfolio/studentpage1.jpeg" class="card-img-top" alt="Student Registration System">
                     <div class="card-body">
-                        <h3 class="card-title">Project 1</h3>
-                        <p class="card-text">Description of project 1 goes here.</p>
+                        <h3 class="card-title">Student Registration System</h3>
+                        <p class="card-text">A comprehensive student registration and management system.</p>
                     </div>
                     <div class="card-footer bg-transparent border-top-0">
                         <a href="edit_item.php?id=1" class="btn btn-outline-primary btn-sm me-2">Edit</a>
@@ -45,10 +45,10 @@
             </div>
             <div class="col">
                 <div class="card h-100 shadow-sm">
-                    <img src="sample-image-2.jpg" class="card-img-top" alt="Project 2">
+                    <img src="assets/img/portfolio/portfolio-2.jpg" class="card-img-top" alt="Hospital Management System">
                     <div class="card-body">
-                        <h3 class="card-title">Project 2</h3>
-                        <p class="card-text">Description of project 2 goes here.</p>
+                        <h3 class="card-title">Hospital Management System</h3>
+                        <p class="card-text">An integrated hospital management and patient tracking system.</p>
                     </div>
                     <div class="card-footer bg-transparent border-top-0">
                         <a href="edit_item.php?id=2" class="btn btn-outline-primary btn-sm me-2">Edit</a>
@@ -58,10 +58,10 @@
             </div>
             <div class="col">
                 <div class="card h-100 shadow-sm">
-                    <img src="sample-image-3.jpg" class="card-img-top" alt="Project 3">
+                    <img src="assets/img/portfolio/portfolio-3.jpg" class="card-img-top" alt="Ecommerce">
                     <div class="card-body">
-                        <h3 class="card-title">Project 3</h3>
-                        <p class="card-text">Description of project 3 goes here.</p>
+                        <h3 class="card-title">Ecommerce</h3>
+                        <p class="card-text">A full-featured ecommerce platform with modern functionalities.</p>
                     </div>
                     <div class="card-footer bg-transparent border-top-0">
                         <a href="edit_item.php?id=3" class="btn btn-outline-primary btn-sm me-2">Edit</a>
@@ -74,7 +74,7 @@
 
     <footer class="bg-light py-4 mt-auto">
         <div class="container">
-            <p class="text-center mb-0">© 2024 Your Portfolio. All rights reserved.</p>
+            <p class="text-center mb-0">© 2024 Rejish Portfolio. All rights reserved.</p>
         </div>
     </footer>
 
