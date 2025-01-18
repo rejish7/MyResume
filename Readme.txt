@@ -2,11 +2,14 @@
 # Portfolio
 
 ## About Me
-I am a passionate backend developer who recently completed my internship, eager to contribute to innovative projects and continue growing in the tech industry. With a solid foundation in backend development and hands-on experience from my internship, I am ready to take on new challenges.
+I am a passionate backend developer who recently completed my internship, eager to 
+contribute to innovative projects and continue growing in the tech industry. 
+With a solid foundation in backend development and hands-on experience from my internship,
+ I am ready to take on new challenges.
 
 ## Technical Skills
 - Languages: Python, PHP, JavaScript
-- Frameworks:  Django
+- Frameworks:  Django ,laravel
 - Databases: MySQL, PostgreSQL
 - Tools: Git, AWS
 - API Development: REST,
