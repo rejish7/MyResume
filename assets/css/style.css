@@ -743,3 +743,91 @@ justify-content:center;
     height: 200px;
   }
 }
+
+/* Additional Responsive Breakpoints */
+
+@media (max-width: 992px) {
+  .card_container {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 1rem;
+  }
+
+  .education-item {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .card_container {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .btn-xl {
+    padding: 1rem 1.5rem;
+    font-size: 0.9rem;
+  }
+
+  .education-details {
+    padding: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .masthead {
+    padding: 3rem 0;
+  }
+
+  .typed {
+    font-size: 1.2rem;
+  }
+
+  .btn-xl {
+    padding: 0.8rem 1.2rem;
+    font-size: 0.8rem;
+    margin: 0.5rem;
+  }
+
+  .education-item h4 {
+    font-size: 1.2rem;
+  }
+
+  .content-section-heading h2 {
+    font-size: 1.8rem;
+  }
+
+  .content-section-heading h3 {
+    font-size: 1rem;
+  }
+
+  .card {
+    margin-bottom: 1rem;
+  }
+
+  .caption-content .h2 {
+    font-size: 1.5rem;
+  }
+
+  .caption-content p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Handle extremely small devices */
+@media (max-width: 320px) {
+  .masthead h1 {
+    font-size: 2rem;
+  }
+
+  .btn-xl {
+    width: 100%;
+    margin: 0.5rem 0;
+  }
+
+  .social-link {
+    width: 35px;
+    height: 35px;
+    font-size: 1rem;
+  }
+}
