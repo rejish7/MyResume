@@ -1,0 +1,12 @@
+# robots.txt for Rejish Khanal Portfolio
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /forms/
+Disallow: /include/
+
+# Sitemap
+Sitemap: https://www.rejishkhanal.com.np/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
